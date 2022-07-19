@@ -1,9 +1,5 @@
 # Given a non-negative integer x, compute and return the square root of x.
 
-from random import randint
-from secrets import randbelow
-
-
 def mySqrt(x: int) -> int:
     a = []
     around = 0
